@@ -443,3 +443,6 @@ $RECYCLE.BIN/
 
 
 appsettings.json
+API/hooters.db
+API/hooters.db-shm
+API/hooters.db-wal
