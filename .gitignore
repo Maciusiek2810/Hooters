@@ -448,3 +448,5 @@ API/hooters.db-shm
 API/hooters.db-wal
 client/package.json
 client/package.json
+*.json
+package.json
